@@ -27,7 +27,7 @@ EN:
 
 Design and practically build an audio frequency preamplifier with tone correction having
 the following features:
-   Unipolar (VCC = 14 V) or bipolar (VCC = 14 V, VEE = -VCC = -14V) supply voltage  or bipolar.
+   Unipolar (VCC = 14 V) or bipolar (VCC = 14 V, VEE = -VCC = -14V) supply voltage.
    Signaling the presence of voltage with LED.
    Alternating input voltage with an amplitude of 20mV.
    Frequency band between low_freq = 400 Hz and high_freq = 12 kHz.
